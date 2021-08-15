@@ -25,6 +25,9 @@ function List() {
                             <div className="col-md-3">
                                 <span>Rs100</span>
                             </div>
+                            <div className="col-md-3">
+                            <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
+                            </div>
                         </div>
                     </div>
                     <div className="list-item">
@@ -37,6 +40,9 @@ function List() {
                             <div className="col-md-3">
                                 <span>Rs120</span>
                             </div>
+                            <div className="col-md-3">
+                            <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
+                            </div>
                         </div>
                     </div>
                     <div className="list-item">
@@ -47,6 +53,9 @@ function List() {
                             </div>
                             <div className="col-md-3">
                                 <span>Rs120</span>
+                            </div>
+                            <div className="col-md-3">
+                            <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
                             </div>
                         </div>
                     </div>
@@ -59,6 +68,9 @@ function List() {
                             <div className="col-md-3">
                                 <span>Rs120</span>
                             </div>
+                            <div className="col-md-3">
+                            <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
+                            </div>
                         </div>
                     </div>
                     <div className="list-item">
@@ -69,6 +81,9 @@ function List() {
                             </div>
                             <div className="col-md-3">
                                 <span>Rs120</span>
+                            </div>
+                            <div className="col-md-3">
+                            <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
                             </div>
                         </div>
                     </div>
@@ -81,6 +96,9 @@ function List() {
                             <div className="col-md-3">
                                 <span>Rs120</span>
                             </div>
+                            <div className="col-md-3">
+                            <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
+                            </div>
                         </div>
                     </div>
                     <div className="list-item">
@@ -91,6 +109,9 @@ function List() {
                             </div>
                             <div className="col-md-3">
                                 <span>Rs120</span>
+                            </div>
+                            <div className="col-md-3">
+                            <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
                             </div>
                         </div>
                     </div>
