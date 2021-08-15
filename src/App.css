@@ -101,6 +101,7 @@ hr.space {
   font-weight: 500;
   font-size: 15px;
   line-height: 22px;
+  font-family: fangsong;
 }
 
 .list-items .list-item p {
@@ -108,6 +109,7 @@ hr.space {
   line-height: 18px;
   color: #7a6b6b;
   margin-top: 5px;
+  font-style: italic;
 }
 
 list-items .list-item span {
@@ -133,4 +135,8 @@ div.adv-img-side-content .btn:hover, .nav-pills > li.active > a, .list-items .li
 
 .hadding{
   color: #694D94;
+  margin-top: 20px;
+  /* font-style: oblique; */
+  text-decoration: underline;
+  font-family: cursive;
 }
