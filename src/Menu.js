@@ -1,5 +1,6 @@
 import React from 'react'
-import List from './List'
+import According from './According'
+
 
 function MENU() {
     return (
@@ -40,7 +41,7 @@ function MENU() {
    </div>
    </div>
 
-   <List/>
+  <According/>
         </>
     )
 }
