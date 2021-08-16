@@ -7,197 +7,44 @@ function Chinesespecialvegetables() {
         <div className="row">
         <div className="col-md-6">
             <div className="list-items">
-                <div className="list-item">
-<MainDriver title="Baigan" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Veg Hakka Noodles
-                          </h3>
-                          <p>Super quick & delicious veg noodles made with lots of fresh vegetable. It can be served on its own ...</p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Veg Schezwan Noodles</h3>
-                            <p>Super quick & delicious veg noodles made with lots of fresh vegetable. It can be served on its own ...</p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>American Chopsy</h3>
-                            <p>Super quick & delicious veg noodles made with lots of fresh vegetable. It can be served on its own ...</p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Veg Chowmen Noodles</h3>
-                            <p>Super quick & delicious veg noodles made with lots of fresh vegetable. It can be served on its own ...</p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Paneer Noodles</h3>
-                            <p>Super quick & delicious veg noodles made with lots of fresh vegetable. It can be served on its own ...</p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Crispy Noodles</h3>
-                              <p>Super quick & delicious veg noodles made with lots of fresh vegetable. It can be served on its own ...</p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <MainDriver title="Gobi Manchurian" desc="Gobi Manchurian is a Indo Chinese dish. Gobi is cauliflower, so for this dish cauliflower florets are first fried by tossing them in a flour-cornstarch batter which makes them crispy." price="100" image="gobi manchurian.jpg"/>
+            <MainDriver title="Mushroom Manchurian" desc="for all mushroom lovers, this is another fantastic spicy Indo Chinese recipe of mushroom manchurian dry. A vegan dish." price="120" image="mushroom-manchurian-recipe.jpg"/>
+            <MainDriver title="Paneer Schezwan Manchurian" desc="it is a popular indian street food across india and is served as a snack or party appetiser." price="130" image="paneer schzwan manchurian.jpg"/>
+            <MainDriver title="Mushroom 65" desc="If you are looking for exotic dish to spice up your gastronomic demands, then Mushroom 65 should fit the right. It makes a best starter to warm your tummies!" price="120" image="mushroom65.jpg"/>
+            <MainDriver title="Gobi Chilly" desc="You just cannot stop eating these crispy and spicy cauliflower florets. " price="100" image="chilli-gobi.jpg"/>
+            <MainDriver title="Veg Ball Chilly" desc="
+            Image result for chinese Veg Ball Chilly
+            Cabbage is usually the leading vegetable in the manchurian balls, with carrots, green beans, bell peppers and even cauliflower added to the mix." price="120" image="veg-ball-chilly.jpg"/>
+            <MainDriver title="Baby Corn Chilly" desc="full on baigan" price="125" image="Veg-Noodles.jpg"/>
+            <MainDriver title="French Fry" desc="full on baigan" price="95" image="Veg-Noodles.jpg"/>
+            <MainDriver title="Mushroom Ginger Sauce" desc="full on baigan" price="120" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            
+                                              </div>
         </div>
         <div className="col-md-6">
             <div className="list-items">
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Manchew Noodles</h3>
-                            <p></p>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+            <MainDriver title="American Chopsy" desc="full on baigan" price="150" image="Veg-Noodles.jpg"/>
+           
+            
                         </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Mushroom Schezwan Noodles</h3>
-                            <p></p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                    </div>
-                    <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Mushroom Schezwan Noodles</h3>
-                            <p></p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Chinese Chopsy</h3>
-                            <p></p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-                <div className="list-item">
-                    <div className="row">
-                        <div className="col-md-9">
-                            <h3>Mushroom Noodles</h3>
-                            <p></p>
-                        </div>
-                        <div className="col-md-3">
-                            <span>Rs120</span>
-                        </div>
-                        <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                    </div>
-                </div>
-                <div className="list-item">
-                <div className="row">
-                    <div className="col-md-9">
-                        <h3>Singapore Noodles</h3>
-                        <p></p>
-                    </div>
-                    <div className="col-md-3">
-                        <span>Rs120</span>
-                    </div>
-                    <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-                </div>
-            </div>
-            <div className="list-item">
-            <div className="row">
-                <div className="col-md-9">
-                    <h3>Nisarga Special Noodles</h3>
-                    <p></p>
-                </div>
-                <div className="col-md-3">
-                    <span>Rs130</span>
-                </div>
-                <div className="col-md-3">
-                        <img src="Veg-Noodles.jpg" alt="logo" width="170" height="84"/>
-                        </div>
-            </div>
-        </div>
-            </div>
         </div>
     </div> 
         </>
