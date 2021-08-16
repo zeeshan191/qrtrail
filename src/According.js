@@ -5,6 +5,8 @@ import Chinesespecialvegetables from './Chinesespecialvegetables'
 import Freshfruitjuices from './Freshfruitjuices'
 import Hotbeverages from './Hotbeverages'
 import Icecream from './Icecream'
+import Kadaispecial from './Kadaispecial';
+
 function According() {
     return (
         <>
@@ -96,14 +98,14 @@ function According() {
                         </h2>
                         <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-                            <Chinesericeitems/>  
+                           <Kadaispecial/>
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header" id="flush-headingeight">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseeight" aria-expanded="false" aria-controls="flush-collapseeight">
-                                KADAI SPECIAL
+                               Meals
                             </button>
                         </h2>
                         <div id="flush-collapseeight" class="accordion-collapse collapse" aria-labelledby="flush-headingeight" data-bs-parent="#accordionFlushExample">
