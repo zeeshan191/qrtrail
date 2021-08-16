@@ -96,7 +96,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseSeven" class="accordion-collapse collapse" aria-labelledby="flush-headingSeven" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-                              
+                            <Chinesericeitems/>  
                             </div>
                         </div>
                     </div>
@@ -121,7 +121,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseNine" class="accordion-collapse collapse" aria-labelledby="flush-headingNine" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -133,7 +133,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseTen" class="accordion-collapse collapse" aria-labelledby="flush-headingTen" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -145,7 +145,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree1" class="accordion-collapse collapse" aria-labelledby="flush-headingThree1" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -157,7 +157,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree21" class="accordion-collapse collapse" aria-labelledby="flush-headingThree21" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -169,7 +169,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree23" class="accordion-collapse collapse" aria-labelledby="flush-headingThree23" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -181,7 +181,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree24" class="accordion-collapse collapse" aria-labelledby="flush-headingThree24" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -193,7 +193,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree5" class="accordion-collapse collapse" aria-labelledby="flush-headingThree5" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -206,7 +206,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree6" class="accordion-collapse collapse" aria-labelledby="flush-headingThree6" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -219,7 +219,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree7" class="accordion-collapse collapse" aria-labelledby="flush-headingThree7" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -231,7 +231,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree8" class="accordion-collapse collapse" aria-labelledby="flush-headingThree8" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -243,7 +243,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree10" class="accordion-collapse collapse" aria-labelledby="flush-headingThree10" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div>
                     </div>
@@ -255,7 +255,7 @@ function According() {
                         </h2>
                         <div id="flush-collapseThree11" class="accordion-collapse collapse" aria-labelledby="flush-headingThree11" data-bs-parent="#accordionFlushExample">
                             <div class="accordion-body">
-
+                            <Chinesericeitems/>
                             </div>
                         </div> 
                     </div>
