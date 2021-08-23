@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.form-check{
+  margin-left: 450px;
+  margin-top: -25px;
+}

@@ -14,6 +14,10 @@ function MainDriver(props) {
                     <img src={props.image} alt="logo" width="170" height="84" />
                 </div>
             </div>
+            <div class="form-check">
+  <input class="form-check-input" type="checkbox" value="" id="flexCheckIndeterminate"/>
+  
+</div>
            </div> 
         </>);
 
